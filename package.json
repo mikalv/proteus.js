@@ -10,7 +10,7 @@
     "chai": "4.1.2",
     "eslint": "4.6.1",
     "jsdoc": "3.4.3",
-    "mocha": "2.5.3",
+    "mocha": "4.0.1",
     "tsd-jsdoc": "dcodeio/tsd-jsdoc#fe76c4dc071b00bb549d3af7a3bad8c555999e81",
     "webpack": "3.5.6"
   },
